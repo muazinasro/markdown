@@ -14,7 +14,7 @@ image: "https://ae01.alicdn.com/kf/Hcf9a477c11fd4ae8a7e353e85fb3a23dn/Custom-Pet
 # iPhone Gadgets
 
 ## iPhone Gadgets
-<looping>
+
 ## [4 Types Mini Multi-Function Magnetic Precision Screwdriver For iPhone Samsung Other Smartphones Tablet Repairing Tools](4_Types_Mini_Multi-Function_Magnetic_Precision_Screwdriver_For_iPhone_Samsung_Other_Smartphones_Tablet_Repairing_Tools.md)
 ![4 Types Mini Multi-Function Magnetic Precision Screwdriver For iPhone Samsung Other Smartphones Tablet Repairing Tools!](https://ae01.alicdn.com/kf/U8bbddef69bfd4295b62922101ab4bd4es/4-Types-Mini-Multi-Function-Magnetic-Precision-Screwdriver-For-font-b-iPhone-b-font-Samsung-Other.jpg_350x350.jpg)
 Read More about 4 Types Mini Multi-Function Magnetic Precision Screwdriver For iPhone Samsung Other Smartphones Tablet Repairing Tools
@@ -98,8 +98,7 @@ Read More about Custom Pet illustrated Cat Animal gift Dog Portrait Clear Case f
 
 Posted by [**Rifan Muazin**](Custom_Pet_illustrated_Cat_Animal_gift_Dog_Portrait_Clear_Case_for_iPhone_12_mini_11_Pro_MAX_X_XR_XS_MAX_SE_2020_6S_7_8_Plus.md) on **2020-10-12T12:45:04Z**
 ***
-</looping>
 
-<pagination>
+
+
 [← Previous](index.md) - [Next →](index-2.md)
-</pagination>
