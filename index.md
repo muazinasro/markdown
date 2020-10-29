@@ -101,5 +101,5 @@ Posted by [**Rifan Muazin**](Custom_Pet_illustrated_Cat_Animal_gift_Dog_Portrait
 </looping>
 
 <pagination>
-[**← Previous**](index.md) - [**Next →**(index-2.md)]
+[← Previous](index.md) - [Next →(index-2.md)]
 </pagination>
